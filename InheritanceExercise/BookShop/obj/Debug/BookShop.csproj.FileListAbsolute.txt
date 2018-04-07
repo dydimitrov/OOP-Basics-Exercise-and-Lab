@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\inheritance\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\Admin\source\repos\inheritance\BookShop\bin\Debug\BookShop.exe
+C:\Users\Admin\source\repos\inheritance\BookShop\bin\Debug\BookShop.pdb
+C:\Users\Admin\source\repos\inheritance\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\inheritance\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\inheritance\BookShop\obj\Debug\BookShop.exe
+C:\Users\Admin\source\repos\inheritance\BookShop\obj\Debug\BookShop.pdb

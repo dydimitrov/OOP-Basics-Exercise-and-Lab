@@ -1,0 +1,2 @@
+C:\Users\Admin\source\repos\InheritanceOOPExercise\RawData\obj\Debug\RawData.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\InheritanceOOPExercise\RawData\obj\Debug\RawData.csproj.CoreCompileInputs.cache

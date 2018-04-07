@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\InheritanceDemo\OnlineRadioDatabase\bin\Debug\OnlineRadioDatabase.exe.config
+C:\Users\Admin\source\repos\InheritanceDemo\OnlineRadioDatabase\bin\Debug\OnlineRadioDatabase.exe
+C:\Users\Admin\source\repos\InheritanceDemo\OnlineRadioDatabase\bin\Debug\OnlineRadioDatabase.pdb
+C:\Users\Admin\source\repos\InheritanceDemo\OnlineRadioDatabase\obj\Debug\OnlineRadioDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\InheritanceDemo\OnlineRadioDatabase\obj\Debug\OnlineRadioDatabase.exe
+C:\Users\Admin\source\repos\InheritanceDemo\OnlineRadioDatabase\obj\Debug\OnlineRadioDatabase.pdb
+C:\Users\Admin\source\repos\InheritanceDemo\OnlineRadioDatabase\obj\Debug\OnlineRadioDatabase.csprojResolveAssemblyReference.cache

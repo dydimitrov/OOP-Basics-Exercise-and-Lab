@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\EncapsulationAndInheritance\FootballTeam\bin\Debug\FootballTeam.exe.config
+C:\Users\Admin\source\repos\EncapsulationAndInheritance\FootballTeam\bin\Debug\FootballTeam.exe
+C:\Users\Admin\source\repos\EncapsulationAndInheritance\FootballTeam\bin\Debug\FootballTeam.pdb
+C:\Users\Admin\source\repos\EncapsulationAndInheritance\FootballTeam\obj\Debug\FootballTeam.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\EncapsulationAndInheritance\FootballTeam\obj\Debug\FootballTeam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\EncapsulationAndInheritance\FootballTeam\obj\Debug\FootballTeam.exe
+C:\Users\Admin\source\repos\EncapsulationAndInheritance\FootballTeam\obj\Debug\FootballTeam.pdb

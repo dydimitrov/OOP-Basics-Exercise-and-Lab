@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp2.0\BookStore.deps.json
+C:\Users\Admin\source\repos\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp2.0\BookStore.runtimeconfig.json
+C:\Users\Admin\source\repos\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp2.0\BookStore.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp2.0\BookStore.dll
+C:\Users\Admin\source\repos\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp2.0\BookStore.pdb
+C:\Users\Admin\source\repos\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp2.0\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp2.0\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp2.0\BookStore.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp2.0\BookStore.AssemblyInfo.cs
+C:\Users\Admin\source\repos\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp2.0\BookStore.dll
+C:\Users\Admin\source\repos\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp2.0\BookStore.pdb

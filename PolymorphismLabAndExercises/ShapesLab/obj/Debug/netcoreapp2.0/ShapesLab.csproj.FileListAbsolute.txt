@@ -1,0 +1,11 @@
+D:\PolymorphismLabAndExercises\ShapesLab\bin\Debug\netcoreapp2.0\ShapesLab.deps.json
+D:\PolymorphismLabAndExercises\ShapesLab\bin\Debug\netcoreapp2.0\ShapesLab.runtimeconfig.json
+D:\PolymorphismLabAndExercises\ShapesLab\bin\Debug\netcoreapp2.0\ShapesLab.runtimeconfig.dev.json
+D:\PolymorphismLabAndExercises\ShapesLab\bin\Debug\netcoreapp2.0\ShapesLab.dll
+D:\PolymorphismLabAndExercises\ShapesLab\bin\Debug\netcoreapp2.0\ShapesLab.pdb
+D:\PolymorphismLabAndExercises\ShapesLab\obj\Debug\netcoreapp2.0\ShapesLab.csprojResolveAssemblyReference.cache
+D:\PolymorphismLabAndExercises\ShapesLab\obj\Debug\netcoreapp2.0\ShapesLab.csproj.CoreCompileInputs.cache
+D:\PolymorphismLabAndExercises\ShapesLab\obj\Debug\netcoreapp2.0\ShapesLab.AssemblyInfoInputs.cache
+D:\PolymorphismLabAndExercises\ShapesLab\obj\Debug\netcoreapp2.0\ShapesLab.AssemblyInfo.cs
+D:\PolymorphismLabAndExercises\ShapesLab\obj\Debug\netcoreapp2.0\ShapesLab.dll
+D:\PolymorphismLabAndExercises\ShapesLab\obj\Debug\netcoreapp2.0\ShapesLab.pdb
